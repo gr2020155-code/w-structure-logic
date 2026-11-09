@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Logic as a Consequence of the Ontological Self-Consistency of the Universe"
+authors:
+  - family-names: Danielyan
+    given-names: Hrachya
+version: "1.0"
+date-released: 2026-11-09
+license: CC-BY-4.0
+repository-code: "https://github.com/gr2020155-code/w-structure-logic"
+type: dataset
+keywords:
+  - intuitionistic logic
+  - Kripke semantics
+  - weak excluded middle
+  - Dummett logic
+  - Gödel incompleteness
+  - W-Structure

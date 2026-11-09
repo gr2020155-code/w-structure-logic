@@ -1,0 +1,23 @@
+{
+  "title": "Logic as a Consequence of the Ontological Self-Consistency of the Universe",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Danielyan, Hrachya"
+    }
+  ],
+  "description": "<p>In W-structure, self-consistency is a condition of existence, not a result reached by choice or by eliminating contradictions; logical laws express the necessary relations of what exists. For a finite event record, a language of statements about realization is built: the meanings of the connectives are obtained from explicit semantic requirements on persistent regions of realization, and the laws are proved from these meanings — non-contradiction, persistent implication, the weak law of excluded middle on the cuts of one history, Dummett's law for a single local system, and classical determinacy only at the complete cut. For the class of all finite event records the logic is exactly KC. The scope of Gödel's incompleteness theorems with respect to an ontological structure and to its formal descriptions is stated separately. All unproved representational steps are listed explicitly. Prepared with the assistance of AI models (Claude, ChatGPT).</p>",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "intuitionistic logic",
+    "Kripke semantics",
+    "weak excluded middle",
+    "KC",
+    "Dummett logic",
+    "Gödel incompleteness",
+    "W-Structure"
+  ],
+  "version": "1.0"
+}
