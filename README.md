@@ -1,6 +1,6 @@
 # Logic as a Consequence of the Ontological Self-Consistency of the Universe
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088174.svg)](https://doi.org/10.5281/zenodo.24088174)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088173.svg)](https://doi.org/10.5281/zenodo.24088173)
 
 **Author:** Hrachya Danielyan · **License:** [CC BY 4.0](LICENSE)
 
@@ -17,6 +17,8 @@ The scope of Gödel's incompleteness theorems is stated separately: the Universe
 ## How to cite
 
 Danielyan, H. (2026). *Logic as a Consequence of the Ontological Self-Consistency of the Universe* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.24088174
+
+All versions (always resolves to the latest): https://doi.org/10.5281/zenodo.24088173
 
 See also [CITATION.cff](CITATION.cff).
 
