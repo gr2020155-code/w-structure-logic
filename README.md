@@ -2,7 +2,7 @@
 
 **Author:** Hrachya Danielyan · **License:** [CC BY 4.0](LICENSE)
 
-Main text: [logic_w_revision4.md](logic_w_revision4.md) ([PDF](logic_w_revision4.pdf)). Verification program: [verify_revision4.py](verify_revision4.py), output: [verify_revision4_output.json](verify_revision4_output.json).
+Main text: [logic_w_revision4.md](logic_w_revision4.md) ([PDF](logic_w_revision4.pdf)). Verification program: [verify_revision4.py](verify_revision4.py), output: [verification_results.json](verification_results.json) (run: `python3 verify_revision4.py`, standard library only, about 5 s).
 
 ## Abstract
 

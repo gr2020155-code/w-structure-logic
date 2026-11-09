@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "scope": "finite descriptive frames only; no ontological or Gödel completeness claim",
+  "labelled_posets_by_size": {
+    "1": 1,
+    "2": 3,
+    "3": 19,
+    "4": 219,
+    "5": 4231
+  },
+  "labelled_posets_total": 4473,
+  "unary_valuations": 48710,
+  "binary_valuations": 573836,
+  "residuation_triples": 7316312,
+  "pointwise_frame_equivalence_checks": 88380,
+  "ideal_lattices_sizes_1_to_4": 242,
+  "local_chain_projections": 2040,
+  "expressive_upsets": 3709,
+  "topological_implication_pairs": 105249,
+  "named_counterexamples": {
+    "fixed_C_not_equivalent_to_disjunction": true,
+    "two_linearizations_not_two_ontological_histories": "representation only",
+    "constant_language_can_be_classical_before_terminal": true
+  },
+  "elapsed_seconds": 5.210884,
+  "coq_or_vm_executed": false
+}

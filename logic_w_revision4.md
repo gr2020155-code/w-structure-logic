@@ -795,7 +795,7 @@ A new program, `verify_revision4.py`, was written and run for this revision. It 
 | Persistent regions on cuts checked, including expressibility | 3,709 |
 | Comparisons of the topological and order-theoretic representations of implication on cuts | 105,249 |
 
-All program assertions passed. The code (`verify_revision4.py`) and its actual output (`verify_revision4_output.json`) are included in this repository. General proofs are given in the text; finite enumeration does not replace them. Coq, `coqchk`, and VM + S were not run in this work.
+All program assertions passed. The code (`verify_revision4.py`) and its actual output (`verification_results.json`) are included in this repository. General proofs are given in the text; finite enumeration does not replace them. Coq, `coqchk`, and VM + S were not run in this work.
 
 ---
 
