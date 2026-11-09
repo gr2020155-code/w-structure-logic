@@ -7,6 +7,7 @@ authors:
 version: "1.0"
 date-released: 2026-11-09
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24088174
 repository-code: "https://github.com/gr2020155-code/w-structure-logic"
 type: dataset
 keywords:
